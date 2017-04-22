@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+
+body {
+  background-color: #2C4251;
+}
+
+h1 {
+  font-size: 58px;
+  letter-spacing: 2px;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+table, th, td {
+  margin: 10px auto;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.title_col {
+  color: #D16666;
+}
+
+a {
+  background-color: #D16666;
+  padding: 10px;
+  text-decoration: none;
+  font-family: sans-serif;
+  display: block;
+  width: 200px;
+  text-align: center;
+  margin: 20px auto;
+  color: black;
+  font-size: 18px;
+}
+
+a:hover {
+  background-color: tomato;
+}
